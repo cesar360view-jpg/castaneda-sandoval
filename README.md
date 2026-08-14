@@ -66,5 +66,5 @@ Este repositorio contiene evidencia documental inalterable sobre el caso. / This
 
 * **[ compressed-anexo-2-corte-testimonio-aziz.pdf]**
   * **ES:** [Aziz testifica ante Mapes que es estudiante, sin certificación ni licencia en abuso infantil]
-  * **EN:** [Aziz testifies before Mapes that he is a student, without certification or a license in child abuse.]
+  * **EN:** [Aziz testifies before Mapes that she is a student, without certification or a license in child abuse.]
 
