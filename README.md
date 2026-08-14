@@ -8,7 +8,7 @@ Este repositorio contiene evidencia documental inalterable sobre el caso. / This
   * **ES:** [DEMANDA FORMAL ANTE EL HHS POR FRAUDE A FONDOS FEDERALES]
   * **EN:** [FORMAL COMPLAINT FILED WITH HHS REGARDING FRAUD INVOLVING FEDERAL FUNDS]
 
-* **[1. Ambry obstruyendo y manipulando estudios genéticos.pdf](1. Ambry obstruyendo y manipulando estudios genéticos.pdf)**
+* **[1. Ambry obstruyendo y manipulando estudios geneticos.pdf](1. Ambry obstruyendo y manipulando estudios geneticos.pdf)**
   * **ES:** [Prueba de manipulación de estudios genéticos y obstrucción de justicia]
   * **EN:** [Evidence of tampering with genetic studies and obstruction of justice]
 
