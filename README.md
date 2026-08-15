@@ -4,7 +4,11 @@ Este repositorio contiene evidencia documental inalterable sobre el caso. / This
 
 📄 Índice de Documentos / Document Index:
 
-* **[0 FORMAL COMPLAINT TO HHS.pdf]( 0 FORMAL COMPLAINT TO HHS.pdf)**
+* **[PRESS RELEASE - August 2026.pdf](PRESS RELEASE - August 2026.pdf)**
+  * **ES:** [COMUNICADO DE PRENSA PARA UTAH, EN INGLÉS Y ESPAÑOL]
+  * **EN:** [PRESS RELEASE FOR UTAH, IN ENGLISH AND SPANISH]
+
+* **[0 FORMAL COMPLAINT TO HHS.pdf](0 FORMAL COMPLAINT TO HHS.pdf)**
   * **ES:** [DEMANDA FORMAL ANTE EL HHS POR FRAUDE A FONDOS FEDERALES]
   * **EN:** [FORMAL COMPLAINT FILED WITH HHS REGARDING FRAUD INVOLVING FEDERAL FUNDS]
 
