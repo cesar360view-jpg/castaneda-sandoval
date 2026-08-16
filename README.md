@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="Athena MemorialCare Github.jpg" alt="Medical Evidence of Athena" width="600">
+  <p><em><strong>Graphic Evidence of Life Risk / Evidencia Gráfica del Riesgo de Vida:</strong><br>
+  <strong>EN:</strong> Minor Athena during the critical health and near-death episode, confirming the diagnosis and medical urgency detailed in Dr. Bernstein's Official Report, evidence that was ignored in the determinations of Mapes and the CPS.<br>
+  <strong>ES:</strong> La menor Athena durante el episodio crítico de salud y riesgo de muerte, confirmando el diagnóstico y la urgencia médica detallada en el Dictamen Oficial del Dr. Bernstein, evidencia que fue ignorada en las determinaciones de Mapes y el CPS.</em></p>
+</div>
+ 
  📂 Evidencia Oficial / Official Evidence: Caso Castaneda-Sandoval Case
 
 Este repositorio contiene evidencia documental inalterable sobre el caso. / This repository contains unalterable documentary evidence regarding the case.
